@@ -1,4 +1,6 @@
 this is a new file
 From Reza Hedayati
 Ali
-sth new changed
+sth new changed from local
+
+NEW CHANGE
